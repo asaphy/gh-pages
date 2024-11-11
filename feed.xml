@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>asaphyuan.com</title>
+    <title>Asaph&#x27;s Blog</title>
     <link href="https://asaphy.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://asaphy.github.io/gh-pages" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2024-11-11T09:57:16-06:00</updated>
     <author>
         <name>Asaph Yuan</name>
     </author>
     <id>https://asaphy.github.io/gh-pages</id>
 
+    <entry>
+        <title>Notes from Podcast</title>
+        <author>
+            <name>Asaph Yuan</name>
+        </author>
+        <link href="https://asaphy.github.io/gh-pages/notes.html"/>
+        <id>https://asaphy.github.io/gh-pages/notes.html</id>
+
+        <updated>2024-11-08T21:33:27-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Design doc: Brief description of problem and goal PRD link High level architecture Proposed interfaces Risks Timelines Launch plan Credibility = track record of results Show understanding and listening well Being reliable with executing Be excited where you are You can have your own career&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h6>Design doc:</h6>
+<ul>
+<li>Brief description of problem and goal</li>
+<li>PRD link</li>
+<li>High level architecture</li>
+<li>Proposed interfaces</li>
+<li>Risks</li>
+<li>Timelines</li>
+<li>Launch plan</li>
+</ul>
+<h6>Credibility = track record of results</h6>
+<ul>
+<li>Show understanding and listening well</li>
+<li>Being reliable with executing</li>
+<li>Be excited where you are</li>
+</ul>
+<h6><br>You can have your own career plan:</h6>
+<p>I need to work on these competencies<br>Work on projects to hit competencies<br>Focus on developing skills</p>
+<h6><br>Influence = input you give to your org to affect its output</h6>
+<ul>
+<li>Feedback</li>
+<li>disagreement</li>
+<li>sharing pov</li>
+<li>Getting buy in<br><br></li>
+</ul>
+<h6>Why should people listen to you?</h6>
+<p>Who you are<br>How you present ideas<br>Should have key relationships<br>How can i be a better partner?<br><br></p>
+            ]]>
+        </content>
+    </entry>
 </feed>

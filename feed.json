@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "asaphyuan.com",
+    "title": "Asaph&#x27;s Blog",
     "description": "",
     "home_page_url": "https://asaphy.github.io/gh-pages",
     "feed_url": "https://asaphy.github.io/gh-pages/feed.json",
@@ -9,5 +9,19 @@
         "name": "Asaph Yuan"
     },
     "items": [
+        {
+            "id": "https://asaphy.github.io/gh-pages/notes.html",
+            "url": "https://asaphy.github.io/gh-pages/notes.html",
+            "title": "Notes from Podcast",
+            "summary": "Design doc: Brief description of problem and goal PRD link High level architecture Proposed interfaces Risks Timelines Launch plan Credibility = track record of results Show understanding and listening well Being reliable with executing Be excited where you are You can have your own career&hellip;",
+            "content_html": "<h6>Design doc:</h6>\n<ul>\n<li>Brief description of problem and goal</li>\n<li>PRD link</li>\n<li>High level architecture</li>\n<li>Proposed interfaces</li>\n<li>Risks</li>\n<li>Timelines</li>\n<li>Launch plan</li>\n</ul>\n<h6>Credibility = track record of results</h6>\n<ul>\n<li>Show understanding and listening well</li>\n<li>Being reliable with executing</li>\n<li>Be excited where you are</li>\n</ul>\n<h6><br>You can have your own career plan:</h6>\n<p>I need to work on these competencies<br>Work on projects to hit competencies<br>Focus on developing skills</p>\n<h6><br>Influence = input you give to your org to affect its output</h6>\n<ul>\n<li>Feedback</li>\n<li>disagreement</li>\n<li>sharing pov</li>\n<li>Getting buy in<br><br></li>\n</ul>\n<h6>Why should people listen to you?</h6>\n<p>Who you are<br>How you present ideas<br>Should have key relationships<br>How can i be a better partner?<br><br></p>",
+            "author": {
+                "name": "Asaph Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-08T21:33:27-06:00",
+            "date_modified": "2024-11-11T09:57:16-06:00"
+        }
     ]
 }
