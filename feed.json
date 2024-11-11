@@ -22,6 +22,20 @@
             ],
             "date_published": "2024-11-08T21:33:27-06:00",
             "date_modified": "2024-11-11T10:53:17-06:00"
+        },
+        {
+            "id": "https://asaphy.github.io/gh-pages/things-i-like.html",
+            "url": "https://asaphy.github.io/gh-pages/things-i-like.html",
+            "title": "What I Enjoy",
+            "summary": "Podcasts: Braveco men (2024) Board Games: Azul (2024) Lord of the Rings Duel (2024) Books: you're only human by Kelly Kapic (2024) Music: Ben Wendel (2023) Movies: The Wild Robot (2024)",
+            "content_html": "<h3>Podcasts:</h3>\n<ul>\n<li>Braveco men (2024)</li>\n</ul>\n<h3>Board Games:</h3>\n<ul>\n<li>Azul (2024)</li>\n<li>Lord of the Rings Duel (2024)</li>\n</ul>\n<h3>Books:</h3>\n<ul>\n<li>you're only human by Kelly Kapic (2024)</li>\n</ul>\n<h3>Music:</h3>\n<ul>\n<li>Ben Wendel (2023)</li>\n</ul>\n<h3>Movies:</h3>\n<ul>\n<li>The Wild Robot (2024)</li>\n</ul>",
+            "author": {
+                "name": "Asaph Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-08T21:26:23-06:00",
+            "date_modified": "2024-11-11T16:40:22-06:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>Asaph&#x27;s Blog</title>
     <link href="https://asaphy.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://asaphy.github.io/gh-pages" />
-    <updated>2024-11-11T10:53:17-06:00</updated>
+    <updated>2024-11-11T16:40:22-06:00</updated>
     <author>
         <name>Asaph Yuan</name>
     </author>
@@ -56,6 +56,46 @@
 <li>How you present ideas</li>
 <li>Should have key relationships</li>
 <li>How can I be a better partner?<br><br><br></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What I Enjoy</title>
+        <author>
+            <name>Asaph Yuan</name>
+        </author>
+        <link href="https://asaphy.github.io/gh-pages/things-i-like.html"/>
+        <id>https://asaphy.github.io/gh-pages/things-i-like.html</id>
+
+        <updated>2024-11-08T21:26:23-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Podcasts: Braveco men (2024) Board Games: Azul (2024) Lord of the Rings Duel (2024) Books: you're only human by Kelly Kapic (2024) Music: Ben Wendel (2023) Movies: The Wild Robot (2024)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Podcasts:</h3>
+<ul>
+<li>Braveco men (2024)</li>
+</ul>
+<h3>Board Games:</h3>
+<ul>
+<li>Azul (2024)</li>
+<li>Lord of the Rings Duel (2024)</li>
+</ul>
+<h3>Books:</h3>
+<ul>
+<li>you're only human by Kelly Kapic (2024)</li>
+</ul>
+<h3>Music:</h3>
+<ul>
+<li>Ben Wendel (2023)</li>
+</ul>
+<h3>Movies:</h3>
+<ul>
+<li>The Wild Robot (2024)</li>
 </ul>
             ]]>
         </content>
